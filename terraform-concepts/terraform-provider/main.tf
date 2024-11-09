@@ -22,6 +22,6 @@ resource "aws_instance" "example" {
 
   # Optional: Add a tag to the instance
   tags = {
-    Name = "ExampleInstance"
+    Name = "s8marjorie-terraform"
   }
 }
